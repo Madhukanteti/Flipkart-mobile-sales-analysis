@@ -1,6 +1,6 @@
 # Flipkart-mobile-sales-analysis
 Flipkart Mobile Sales Analysis Report
-
+![image](https://github.com/user-attachments/assets/58ba3be8-3636-4ccd-9efe-05c26415ab05)
 Overview
 
 This report presents an analysis of mobile phone sales on Flipkart, focusing on key metrics such as total products available, price distribution, brand performance, and customer quality ratings. The insights derived from this analysis can help in understanding market trends and customer preferences.
